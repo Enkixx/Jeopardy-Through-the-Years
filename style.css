@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+#categories {
+    display: flex;
+    justify-content: space-around;
+    border: black 5px solid;
+    background-color: black;
+    height: 80vh;
+}
+
+.notVisable {
+    display: none;
+}
+
+.category{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: stretch;
+    flex-grow: 1;
+    max-width: 16%;
+    min-width: 16%;
+    border: black 3px solid;
+    background-color: darkblue;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    padding: 10%;
+    margin: auto;
+    min-height: 10%;
+    color: white;
+}
+
+.clue{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-grow: 1;
+    border-top: black 3px solid;
+    color: white;
+}
+
+.top{
+    border-top: black 6px solid;
+}
+
+.value{
+    font-size: 2rem;
+}
+
+.correct{
+    color: #00ce00;
+    font-size: 2rem;
+}
+
+#scoreboard{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#scoreboard div{
+    display: inline;
+}
+
+button{
+    color: white;
+    background-color: rgb(40, 40, 145);
+}
