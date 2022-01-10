@@ -1,5 +1,5 @@
-# Kenzie Academy JavaScript Assignment
+# Jeopardy Through the Years
 
-Complete your work inside of `code.js`
+Capstone project completed for Kenzie Academy Front-End Developer Program.
 
-Follow the instructions provided on my.kenzie.academy for this assignment.
+Utilizing a Kenzie created API, this site generates a Jeopardy board from any of the categories used in previous years.
