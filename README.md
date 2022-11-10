@@ -1,4 +1,4 @@
-# Jeopardy Through the Years
+# Jeopardy Through The Years
 
 Capstone project completed for Kenzie Academy Front-End Developer Program.
 
